@@ -75,7 +75,7 @@ Our objective was to:
 - Working across domains (mechanical, electrical, and programming).
 - Hands-on experience in drone tuning and real-world electronics.
 - Team collaboration, time management, and rapid prototyping.
-- Respecting wire polarities: Red = +, Black = ground 😅
+- Respecting wire polarities, specially in drones, can burn your components so be safe: Red = +, Black = ground 😅
 
 ---
 
@@ -84,7 +84,7 @@ Our objective was to:
 - Add fire detection system (IR/thermal camera).
 - Implement autonomous flight and object avoidance.
 - Deploy payload-drop/rescue modules.
-- Integrate GPS-based navigation.
+- Autonomous GPS-based navigation.
 
 ---
 
