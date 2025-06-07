@@ -29,9 +29,9 @@ Our objective was to:
 - Jainil
   
 ---
-**Faculty Instructor:** [Pratik Mutha]
----
-**Project Supervisor:** [Anirudh Mali]
+#**Faculty Instructor:** [Pratik Mutha]
+
+#**Project Supervisor:** [Anirudh Mali]
 ---
 
 ## 🛠️ What We Built
