@@ -55,11 +55,12 @@ Our objective was to:
 ## ⚙️ Tech Stack & Tools
 
 - **Hardware**: Pixhawk, BLDC motors, ESCs, LiPo batteries, FlySky transmitter
-- **CAD & Simulation**: Fusion 360, SolidWorks, ANSYS
+- **CAD & Simulation**: Fusion 360, Autodesk Inventor, ANSYS
 - **3D Printing**: PLA on Creality Ender 3
 - **Software**: Mission Planner, QGroundControl
 - **Programming**: MAVLink parameters tuning, manual PID adjustment
 - **Others**: Soldering, power tools, and hands-on electronics debugging
+#[List of Parts Required in this Build]([https://iitgnacin-my.sharepoint.com/:f:/g/personal/23110048_iitgn_ac_in/El2Yii2KWylPtdONhYA-aMUB11aQDVWij_SjwvpswyfQrQ?e=ryd7AF](https://iitgnacin-my.sharepoint.com/:x:/g/personal/23110048_iitgn_ac_in/EbiZ3_7Fo0xGhVJNSj4nCxoBQVNuW1qEzTfguQrweLLmPg?e=0ApdLf))
 
 ---
 
