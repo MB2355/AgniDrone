@@ -45,7 +45,7 @@ Our objective was to:
 ### 2. 🚁 Phase 2: Custom Heavy-Lift Hexacopter
 - Custom-designed **Plus-type** hexacopter frame.
 - Used **PVC pipes** and 3D printed PLA joints/motor mounts.
-- Frame required **zero screws** (except motors 😉).
+- Frame required **zero screws** (except motor and frame connection😉).
 - Structural design and simulation done using **ANSYS**.
 - Powered by **BLDC motors** and controlled via **Pixhawk** flight controller.
 - Performed **manual PID tuning** and achieved stable flight.
