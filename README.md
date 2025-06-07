@@ -46,7 +46,7 @@ Our objective was to:
 - Custom-designed **Plus-type** hexacopter frame.
 - Used **PVC pipes** and 3D printed PLA joints/motor mounts.
 - Frame required **zero screws** (except motor and frame connection😉).
-- Structural design and simulation done using **ANSYS**.
+- Structural design and simulation done using **ANSYS** and **Autodesk Inventor**.
 - Powered by **BLDC motors** and controlled via **Pixhawk** flight controller.
 - Performed **manual PID tuning** and achieved stable flight.
 
