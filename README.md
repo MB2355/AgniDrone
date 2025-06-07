@@ -10,7 +10,7 @@
 
 ## 📌 About the Project
 
-This project was carried out during our 4th semester under the **Maker Bhavan Foundation**, with access to tools, materials, and mentorship at **Thinkerers’ Lab**.
+This project was carried out during our 4th semester under the **Maker Bhavan Foundation**, with access to tools, materials, and mentorship at **Maker Bhavan IITGN**.
 
 Our objective was to:
 - Understand the fundamentals of drone electronics and control.
