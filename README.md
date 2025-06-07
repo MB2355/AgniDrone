@@ -3,9 +3,6 @@
 
 > A student-led drone development project aimed at designing and prototyping a heavy-lift, manually controlled drone with potential firefighting and rescue capabilities.
 
-[🔗 Photos and Videos](https://iitgnacin-my.sharepoint.com/:f:/g/personal/23110048_iitgn_ac_in/El2Yii2KWylPtdONhYA-aMUB11aQDVWij_SjwvpswyfQrQ?e=ryd7AF)
-
-
 ---
 
 ## 📌 About the Project
@@ -60,7 +57,7 @@ Our objective was to:
 - **Software**: Mission Planner, QGroundControl
 - **Programming**: MAVLink parameters tuning, manual PID adjustment
 - **Others**: Soldering, power tools, and hands-on electronics debugging
-- [List of Parts Required in this Build](https://iitgnacin-my.sharepoint.com/:x:/g/personal/23110048_iitgn_ac_in/EbiZ3_7Fo0xGhVJNSj4nCxoBQVNuW1qEzTfguQrweLLmPg?e=Qwz17F)
+- [List of items required in this build](https://iitgnacin-my.sharepoint.com/:x:/g/personal/23110048_iitgn_ac_in/EbiZ3_7Fo0xGhVJNSj4nCxoBQVNuW1qEzTfguQrweLLmPg?e=Qwz17F)
 
 ---
 
