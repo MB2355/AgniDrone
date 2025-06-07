@@ -27,9 +27,11 @@ Our objective was to:
 - Tanmay  
 - Parth  
 - Jainil
-
-- **Faculty Instructor:** [Pratik Mutha]
-- **Project Supervisor:** [Anirudh Mali]
+  
+---
+**Faculty Instructor:** [Pratik Mutha]
+---
+**Project Supervisor:** [Anirudh Mali]
 ---
 
 ## 🛠️ What We Built
