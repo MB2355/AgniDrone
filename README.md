@@ -28,6 +28,7 @@ Our objective was to:
 - Parth  
 - Jainil
 
+**Faculty Instructor:** [Pratik Mutha]
 **Project Supervisor:** [Anirudh Mali]
 ---
 
