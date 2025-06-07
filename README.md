@@ -1,7 +1,7 @@
 # AgniDrone
 # 🔥 Firefighting / Rescue Drone Project
 
-> A student-led drone development project aimed at designing and prototyping a low-cost, heavy-lift, manually controlled drone with potential firefighting and rescue capabilities.
+> A student-led drone development project aimed at designing and prototyping a heavy-lift, manually controlled drone with potential firefighting and rescue capabilities.
 
 ![Drone Test Flight](https://iitgnacin-my.sharepoint.com/:f:/g/personal/23110048_iitgn_ac_in/El2Yii2KWylPtdONhYA-aMUB11aQDVWij_SjwvpswyfQrQ?e=ryd7AF)
 
