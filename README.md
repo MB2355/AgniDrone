@@ -90,11 +90,9 @@ Our objective was to:
 
 ## 🙏 Acknowledgements
 
-- **Maker Bhavan Foundation** – for providing materials and a free space to explore.
-- **Prof. Pratik Mutha** - Faculty Instructor
-- **Anirudh Mali** – for mentorship, guidance and providing full access of Maker Bhavan resources.
-- **Thinkerers’ Lab** – for access of Laser cutting machine and tools.
-- **Divij Bhaiya** – for assistance while using 3D Printers.
+- **Maker Bhavan Lab IIT Gandhinagar** – for providing materials and a free space to explore.
+- **Anirudh Mali aka Maker Guru** – for mentorship, guidance and providing full access of Maker Bhavan resources.
+- **Divij Bhaiya** – for assistance while using 3D Printers and other tools.
 
 ---
 
